@@ -8,7 +8,7 @@ import numpy as np
 import pandas as pd
 import plotly.graph_objects as go
 
-from Inputs_Parallel import get_possible_scenarios
+# from Inputs_Parallel import get_possible_scenarios
 
 import streamlit as st
 from google.oauth2 import service_account
