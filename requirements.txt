@@ -1,3 +1,4 @@
 plotly
 google-auth
 google-cloud
+google-cloud-bigquery
